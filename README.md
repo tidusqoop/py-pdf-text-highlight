@@ -6,6 +6,10 @@ $ pip install PyMuPDF
 ```
 
 ## how to use
+
+### jupyter notebook
+- sample-jupyter.ipynb
+### python
 ```sh
-$ python main.py
+$ python pdfhandler.py
 ```
